@@ -1,0 +1,13 @@
+{
+  "name": "mygomel/test",
+  "description": "description_test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Maus",
+      "email": "email@mygomel.com"
+    }
+  ]
+}
